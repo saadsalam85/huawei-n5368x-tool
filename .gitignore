@@ -1,0 +1,26 @@
+# Credentials / personal data — never commit these
+huawei_config.json
+neighbour_log.txt
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Local probes & dev notes
+probe_*.py
+test_*.py
+audit_*.py
+check_*.py
+debug_*.py
+sweep_live_test.py
+ultimate_probe.py
+recover_*.py
+verify_*.py
+
+# Third-party / dumps
+LTEHMonitor*/
+js_*_copy.js
+*.rtf
+*.html
+module_switch_backup.txt
+slam_poll.txt
