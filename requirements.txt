@@ -1,4 +1,6 @@
 requests>=2.25
-# Optional (auto-detected, graceful fallback if missing):
-# speedtest-cli     -> speedtest.net fallback measurements
-# huawei-lte-api    -> documented library auth fallback
+
+# Optional — auto-detected at runtime, graceful fallback if missing:
+#
+#   pip install speedtest-cli       -> extra speed-test source (speedtest.net)
+#   pip install huawei-lte-api      -> documented-library login fallback
