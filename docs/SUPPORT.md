@@ -23,7 +23,6 @@ sending; funds sent on the wrong network are not recoverable.
 
 - Donations are optional — the tool stays free and open source (MIT)
   regardless.
-- If you want a PayPal, bank, or other option added here, open an issue or
-  reach out via the repo.
+- Currently, **USDT on the TRON/TRC20 network is the only accepted method**.
 - Sponsors/patrons may be listed in the README **Credits** section on request
   (or kept anonymous — your call).
